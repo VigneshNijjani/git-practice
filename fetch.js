@@ -1,3 +1,4 @@
+//fetchings
 let a=async()=>{
     try {
         let api=await fetch("https://fakestoreapi.com/products")
